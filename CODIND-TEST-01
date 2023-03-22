@@ -26,4 +26,5 @@ release.properties
 gradle-app.setting
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
-# Intellij IDEA Files
+# Intellij IDEA 文件
+test的-0100
