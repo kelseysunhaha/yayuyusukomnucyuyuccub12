@@ -1,1 +1,22 @@
 
+<!-- 日志门面使用slf4j，日志实现可以选择log4j、log4j2、logback，可参考：https://github.com/alipay/sofa-bolt/wiki/log_implementation_jar -->
+ <dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>1.7.21</version>
+</dependency>
+<dependency>
+    <groupId>io.netty</groupId>
+    <artifactId>netty-all</artifactId>
+    <version>4.1.42.Final</version>
+</dependency>
+<dependency>
+    <groupId>com.alipay.sofa</groupId>
+    <artifactId>bolt</artifactId>
+    <version>1.6.6</version>
+</dependency>
+<dependency>
+    <groupId>com.alipay.sofa.common</groupId>
+    <artifactId>sofa-common-tools</artifactId>
+    <version>1.0.12</version>
+</dependency>
