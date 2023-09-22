@@ -1,2 +1,36 @@
 dde\\\
 develop
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# HPROF: A Heap/CPU Profiling Tool, see http://docs.oracle.com/javase/8/docs/technotes/samples/hprof.html
+*.hprof
+# Maven Files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Gradle Files
+.gradle# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# HPROF: A Heap/CPU Profiling Tool, see http://docs.oracle.com/javase/8/docs/technotes/samples/hprof.html
+*.hprof
+# Maven Files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Gradle Files
+.gradle# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# HPROF: A Heap/CPU Profiling Tool, see http://docs.oracle.com/javase/8/docs/technotes/samples/hprof.html
+*.hprof
+# Maven Files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Gradle Files
+.gradle
