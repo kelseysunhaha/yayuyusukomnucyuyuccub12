@@ -23,7 +23,29 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 的
-的
+的# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# HPROF: A Heap/CPU Profiling Tool, see http://docs.oracle.com/javase/8/docs/technotes/samples/hprof.html
+*.hprof
+# Maven Files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Gradle Files
+.gradle# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+# HPROF: A Heap/CPU Profiling Tool, see http://docs.oracle.com/javase/8/docs/technotes/samples/hprof.html
+*.hprof
+# Maven Files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+# Gradle Files
+.gradlev
 whay tettttytey 
 gydgeydgeydgeygdyegdeygdeyydeydge
 的
