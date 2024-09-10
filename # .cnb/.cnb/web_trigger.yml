@@ -1,0 +1,89 @@
+1
+# .cnb/web_trigger.yml
+branch:
+  # 如下按钮在分支名以 release 开头的分支详情页面显示
+  - reg: "^release"
+    buttons:
+      - name: 按钮名1
+        description: 按钮描述
+        event: web_trigger_one # 触发的 CI 事件名
+        # 环境变量
+        env:
+          a: 1
+          b: 2
+        # 可输入环境变量，可覆盖上述 env 的变量配置
+        inputs:
+          # 目前支持以下三种格式：输入框（input）、多行文本输入框（textarea）、下拉选择框（select）
+          var1:
+            # 输入框
+            description: 输入变量1
+            required: true # 是否必填
+            type: input
+            default: 默认值1
+          var2:
+            # 输入框
+            description: 输入变量2
+            required: true
+            type: textarea
+            default: 默认值2
+          var3:
+            # 下拉选择框
+            description: 输入变量3
+            required: false
+            type: select
+            default: 默认值3
+            options:
+              - name: 选项1
+                value: value1
+              - name: 选项2
+                value: value2
+
+  # 如下按钮在分支名以 dev 开头的分支详情页面显示
+  - reg: "^dev"
+    buttons:
+      - name: 按钮名2
+        description: 按钮描述
+        event: web_trigger_two
+      - name: 按钮名3
+        description: 按钮描述
+        event: web_trigger_three
+
+  # 如下自定义按钮在所有分支详情页面显示
+  - buttons:
+      - name: 按钮名4
+        description: 按钮描述
+        event: web_trigger_four
+2
+3
+4
+5
+6
+7
+10
+8
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
