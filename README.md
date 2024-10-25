@@ -20,3 +20,4 @@ http://用户名.github.io/仓库名
 yigeggegggggggggggb c
 cddd
 cdcddcdccc
+[![Cloud Studio Template](https://cs-res.codehub.cn/common/assets/icon-badge.svg)](https://cloudstudio.net/a/22212849602789376?channel=share&sharetype=Markdown)
