@@ -1,1 +1,673 @@
-rain rainrain
+rain# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH# .cnb/tag_deploy.yml
+environments:
+  - name: development
+    description: Development environment
+    env:
+      name: development
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: staging
+    description: Staging environment
+    env:
+      name: staging
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH
+
+  - name: production
+    description: Production environment
+    env:
+      name: production
+      # CNB_BRANCH: 环境变量，tag_push 事件中，为 tag 名
+      tag_name: $CNB_BRANCH rainrain
